@@ -49,5 +49,5 @@ Graduates show higher approval rates, suggesting educational background may infl
 
 📷 Dashboard Preview
 
-![Dashboard](dashboard_preview1.png)
+![Dashboard_preview1](dashboard_preview1.png)
 ![Dashboard](dashboard_preview2.png)
