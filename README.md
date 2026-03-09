@@ -6,7 +6,7 @@ The goal is to identify how credit score, income, education, and employment stat
 
 ---
 
-## Tools & Technologies
+## Tools & Technologies 
 
 * **SQL (MySQL)** – Data querying and analysis
 * **Power BI** – Interactive dashboard visualization
