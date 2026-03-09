@@ -10,7 +10,7 @@ The goal is to identify how credit score, income, education, and employment stat
 
 * **SQL (MySQL)** – Data querying and analysis
 * **Power BI** – Interactive dashboard visualization
-* **Excel / CSV** – Dataset source
+* **CSV** – Dataset source
 
 ---
 
@@ -26,6 +26,8 @@ The dataset contains loan applicant information including:
 * Employment status
 * Asset values
 * Loan approval status
+
+---
 
 ## Dashboard Features
 
